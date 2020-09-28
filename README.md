@@ -1,4 +1,4 @@
-# Taroko
+# Taroko - Online Travel Booking Platforms
 DEMO連結：https://100401031.github.io/Taroko
 (使用搜尋功能請搜尋台灣or台北)
 
